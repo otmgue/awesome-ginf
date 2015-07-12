@@ -15,7 +15,6 @@ Hello there!, I made this repository as a request from some students school [ENS
 I need to mention that even if language used to teach computer science at our school is French, which is I consider bad, English stays the main CS langages so friend you need to get familiar, first rule of Computer Science!
 Clearly I'm gonna be talking only about **Computer Science**, and since there's a looooot to cover, I'll be deviding this content into sections, each section will be contained on it separate file included in this same repository. 
 
-Puisque'il y a beaucoup de chose à dire, nous allons structurer le contenu par plusieurs parties chaque partie va être dans son propre fichier `.md` sera contenu dans la même `repository`.
 
 ## Motivation
 >Every article, youtube or TED video, or whatever makes you fall in love with computer science
@@ -32,9 +31,11 @@ Puisque'il y a beaucoup de chose à dire, nous allons structurer le contenu par 
 
 ## Advantages
 
+
 ## Discussions
 >Want to discuss about something ?
 >simply open an issue, make a suitable title and you have our attention.
+![Issue](https://raw.githubusercontent.com/Zianwar/awesome-ginf/master/images/issue.png?token=AGMZeMfh_7UiP1E0KmfpS42HMwwNuipcks5VqwGowA%3D%3D "Issues Section")![New Issue](https://raw.githubusercontent.com/Zianwar/awesome-ginf/master/images/newissue.png?token=AGMZeH-_oY8YQQPGTBapgVqPA9n_7Xfkks5VqwHVwA%3D%3D "Create New Issue")            
 
 
 ## Contribution
