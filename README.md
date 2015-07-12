@@ -2,7 +2,7 @@
 
 ![GINF](https://raw.githubusercontent.com/Zianwar/awesome-ginf/master/images/ginf.png?token=AGMZeFbP2EnVs2S29E2B4NdXZpn19lu6ks5VqvTTwA%3D%3D "Génie Informatique")            
 
-Hello there!, I made this repository as a request from some students at school [ENSAT](http://ensat.ac.ma) in order to help them wisely choose an engineering branch that suits and fits their desires and skills, they are about to choose from 5 branches, which are : 
+Hello there!, I made this repository as a request from some students at our school [ENSAT](http://ensat.ac.ma) in order to help them wisely choose an engineering branch that suits and fits their desires and skills, they are about to choose from 5 branches, which are : 
 
 + **GSTR** : Telecomunication & Networking Engineering
 + **GIND** : Industrial & Logistics Engineering
@@ -12,9 +12,9 @@ Hello there!, I made this repository as a request from some students at school [
 
 > you can find a full description of these branches at our offical  ~~shitty~~ [website](http://ensat.ac.ma) :poop:
 
-I need to mention that even if the language used to teach at our school is French, which is I consider bad, English stays the main go to langage to study and learn Computer Science, so friends, you need to get familiar! => first rule of Computer Science!
+I need to mention that even if the language used to teach at our school is French, which I consider bad, English stays the main go to language to study and learn Computer Science, so friends, you need to get familiar with it! => first rule of Computer Science!
 
-Clearly I'm gonna be talking only about **Computer Science**, and since there's a lot to cover, I'll be deviding this content into sections, each section will contain its own content, this way we can have a better and organised ressources.
+Clearly I'm gonna be talking only about **Computer Science**, and since there's a lot to cover, I'll be dividing this content into sections, each section will contain its own content, this way we can have better and more organised ressources.
 
 Okay! let's start by the most important thing :  
 
@@ -50,7 +50,7 @@ Okay! let's start by the most important thing :
 
 
 ## Contribution
-Everyone can contribute, what's more, I believe everyone can add value by at least provide something.
+Everyone can contribute, what's more, I believe everyone can add value by at least providing something.
 There's no rules for contribution, simply fork and create a pull-request, since you are not going to mess things up, 
-we trust in you. 
+we trust you. 
 
