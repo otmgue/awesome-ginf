@@ -24,7 +24,7 @@ Okay! let's start by the most important thing :
 
 
 ## Disciplines
-+ Web Dévelopement 
++ Web Developement 
 + Database Administration
 + System Administration
 
