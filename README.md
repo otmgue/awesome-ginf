@@ -14,7 +14,9 @@ Hello there!, I made this repository as a request from some students at school [
 
 I need to mention that even if the language used to teach at our school is French, which is I consider bad, English stays the main go to langage to study and learn Computer Science, so friends, you need to get familiar! => first rule of Computer Science!
 
-Clearly I'm gonna be talking only about **Computer Science**, and since there's a lot to cover, I'll be deviding this content into sections, each section will be contained on it separate file included in this same repository, that way we can have a better and organised ressources, let's start. 
+Clearly I'm gonna be talking only about **Computer Science**, and since there's a lot to cover, I'll be deviding this content into sections, each section will contain its own content, this way we can have a better and organised ressources.
+
+Okay! let's start by the most important thing :  
 
 
 ## Motivation
