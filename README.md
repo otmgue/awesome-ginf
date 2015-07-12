@@ -46,7 +46,7 @@ Okay! let's start by the most important thing :
 ## Discussions
 >Want to discuss about something ?
 >simply open an issue, make a suitable title and you have our attention.
-![Issue](https://raw.githubusercontent.com/Zianwar/awesome-ginf/master/images/issue.png?token=AGMZeMfh_7UiP1E0KmfpS42HMwwNuipcks5VqwGowA%3D%3D "Issues Section")![New Issue](https://raw.githubusercontent.com/Zianwar/awesome-ginf/master/images/newissue.png?token=AGMZeH-_oY8YQQPGTBapgVqPA9n_7Xfkks5VqwHVwA%3D%3D "Create New Issue")            
+![Issue](https://raw.githubusercontent.com/Zianwar/awesome-ginf/master/images/newissue1.png "Issues Section")
 
 
 ## Contribution
